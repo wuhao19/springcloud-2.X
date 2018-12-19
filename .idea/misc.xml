@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/hello-spring-cloud-web-feign/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-zipkin/pom.xml" />
       </list>
     </option>
   </component>
